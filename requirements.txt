@@ -39,4 +39,4 @@ urllib3
 uvicorn
 uvloop
 xattr
-yt-dlp==2024.05.10
+yt-dlp==2025.04.30
